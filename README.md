@@ -90,7 +90,7 @@ After finding the neghibours of the cuisine by the help of the .neghibors method
 
 ## Whole project view:
 
-In this project after reading data and using the feature vector I used two type of methods two train and fit my dataset. The fisrt one was LogesticRegression that helps me two predict the type of the cuisine based on the user input. The second one was KNeighborsClassifier that was useful to find the neghibors of the user inputs based on the number of the cuisine he/she wants.
+In this project after reading data and using the feature vector I used two type of methods two train and fit my dataset. The fisrt one was LogesticRegression that helps me two predict the type of the cuisine based on the user input. The second one was KNeighborsClassifier that was useful to find the neghibors of the user inputs based on the number of the cuisine he/she wants. Then fianl result will suggest the user different cuisine based on her/his available ingridents.
 ## Check the project result:
 
 There is two way to run my code.
